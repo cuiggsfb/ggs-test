@@ -1,0 +1,23 @@
+{
+  "name": "ggs-test",
+  "version": "1.2.0",
+  "description": "test for publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuiggsfb/ggs-test.git"
+  },
+  "keywords": [
+    "cg",
+    "test"
+  ],
+  "author": "cuiggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuiggsfb/ggs-test/issues"
+  },
+  "homepage": "https://cuiggsfb.github.io/ggs-test/"
+}
